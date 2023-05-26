@@ -1,3 +1,3 @@
 # Athon 4
 
-It's a markdown file as an assignment to "Tools for Data Science" course Telkom Athon4
+All of tasks given in Telkom Athon 4 stream Data Science stored here.
